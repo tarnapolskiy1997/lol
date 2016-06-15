@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.dpi"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.dpi"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.dpi"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.dpi"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.dpi"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.dpi"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.dpi"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.dpi"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.dpi"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.dpi"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.dpi"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.dpi"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.dpi"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.dpi"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.dpi"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.dpi"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.dpi"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.dpi"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.dpi"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.dpi"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.dpi"
+        }
+    }
+}
